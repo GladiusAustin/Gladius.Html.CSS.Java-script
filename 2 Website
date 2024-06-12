@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/red skull.png">
+    </head>
+
+    <body bgcolor="black" style="color:  white">
+        <center>
+            <h1>Upcoming Events 📅</h1>
+            <p>Don't miss any of your important events. Stay Updated</p>
+        </center>
+
+        <hr>
+
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, voluptatum. Veniam possimus, vero excepturi iste omnis cupiditate earum ullam dolore aperiam quasi tempore quidem repellendus, quibusdam in culpa, voluptas tempora.loremlorm . Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, nulla magni! Eligendi suscipit eaque deserunt a dicta aperiam dolore qui voluptatem at non nesciunt ipsum debitis, assumenda cupiditate voluptate necessitatibus.lorem
+        </p>
+        
+        <center> 
+        <img src="event1.png">
+        <h1>Photo Gallery</h1>
+        <h2>Free Entry | Free Food | Pets are not Allowed</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, obcaecati ea omnis autem nihil voluptates, consequuntur, reiciendis ad unde illum inventore? Minus at id quia possimus a maxime reprehenderit ipsa, expedita earum voluptas magnam soluta pariatur sit dolores rem illum, nisi cupiditate illo assumenda impedit numquam. Odit quasi eaque ducimus.</p>
+       </center>  
+
+       <center>
+        <img src="event2.png">
+        <h1>
+            <a href="https://www.amazon.com/">Fashion Store</a>
+        </h1>
+        <h2>Free Entry | Free Food | Pets are not Allowed</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni, obcaecati ea omnis autem nihil voluptates, consequuntur, reiciendis ad unde illum inventore? Minus at id quia possimus a maxime reprehenderit ipsa, expedita earum voluptas magnam soluta pariatur sit dolores rem illum, nisi cupiditate illo assumenda impedit numquam. Odit quasi eaque ducimus.</p>
+       </center>  
+
+       </center>
+
+       <hr>
+
+       <center>
+        <h1>Contact</h1>
+        <h2>+91 755003456 | eventcollab@gmail.com</h2>
+        <p>2nd street Avenune Park, Trichy, 462973</p>
+       </center>
+    </body>
+</html>
